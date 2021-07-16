@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-title: Welcome to my Portfolio!
+title: Nicholas Gonzalez Projects
+github:
+  is_project_page: false
