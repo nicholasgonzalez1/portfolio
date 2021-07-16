@@ -11,7 +11,7 @@ Built a spreadsheet which helps me organize and manage the macronutrients that I
 The objective of this project was to research and implement Microsoft Azure Applications to automate the Florida Lottery Department’s file extract, transform, and load (ETL) processes. Two fully-functioning workflows were created, one in Azure Logic Apps and the other in Azure Data Factory, along with extensive documentation detailing exactly how each pipeline was constructed.
 
 ## [Flight Scheduling Dashboard](https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard)
-Designed a Gantt Chart styled user interface in order to efficiently schedule incoming flights for Orlando International Airport (MCO). Also used to historical flight to implement a simple probabilistic algorithm to predict whether a flight would be delayed and by how much. Due to the subject material of the course (ESI4356: Spreadsheet Decision Support Systems), all work was asked to be done using Excel and VBA. 
+Designed a Gantt Chart styled user interface in order to efficiently schedule incoming flights for Orlando International Airport (MCO). Also used historical flight to implement a simple probabilistic algorithm to predict whether a flight would be delayed and by how much. Due to the subject material of the course (ESI4356: Spreadsheet Decision Support Systems), all work was asked to be done using Excel and VBA. 
 
 ## [Gun Violence in the U.S.](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)
 
