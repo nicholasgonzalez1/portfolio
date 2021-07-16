@@ -1,5 +1,3 @@
 theme: jekyll-theme-slate
-titles_from_headings:
-  enabled:     true
-  strip_title: false
-  collections: false
+name: Welcome to my Portfolio!
+title: null
