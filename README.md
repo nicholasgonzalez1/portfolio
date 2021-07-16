@@ -13,7 +13,8 @@ The objective of this project was to research and implement Microsoft Azure Appl
 ## [Flight Scheduling Dashboard](https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard)
 Designed a Gantt Chart styled user interface in order to efficiently schedule incoming flights for Orlando International Airport (MCO). Also used historical flight to implement a simple probabilistic algorithm to predict whether a flight would be delayed and by how much. Due to the subject material of the course (ESI4356: Spreadsheet Decision Support Systems), all work was asked to be done using Excel and VBA. 
 
-## [Gun Violence in the U.S.](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)
+## Gun Violence in the U.S.
+https://github.com/nicholasgonzalez1/Gun_Violence_Analysis
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-gonzalez-3011aa128)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicholasgonzalez1)  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasgonzalez927@gmail.com)
