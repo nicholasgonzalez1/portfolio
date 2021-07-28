@@ -4,3 +4,5 @@ github:
   is_project_page: False
 titles_from_headings:
   enabled: False
+  strip_title: True
+  collections: True
