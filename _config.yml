@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-author: Nicholas Gonzalez
 title: Nicholas Gonzalez Projects
+github:
+  is_project_page: True
