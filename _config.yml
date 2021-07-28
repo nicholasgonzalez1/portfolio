@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: False
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true 
