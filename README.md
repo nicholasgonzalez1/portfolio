@@ -1,5 +1,5 @@
-# **Welcome to my Portfolio!**
-This page contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
+# **Nicholas Gonzalez Projects**
+This portfolio contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
 
 ## [Stock Screener](https://github.com/nicholasgonzalez1/Stock_Screener)
 **May 2021 - Present**  
