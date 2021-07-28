@@ -3,6 +3,6 @@ title: Nicholas Gonzalez Projects
 github:
   is_project_page: False
 titles_from_headings:
-  enabled: False
+  enabled: True
   strip_title: True
   collections: True
