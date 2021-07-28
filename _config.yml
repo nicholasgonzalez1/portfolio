@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
+title: Nicholas Gonzalez Projects
 github:
   is_project_page: False
-titles_from_headings:
-  enabled:     false
-  strip_title: true
-  collections: true 
