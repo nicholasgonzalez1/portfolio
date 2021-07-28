@@ -19,6 +19,8 @@ The objective of this project was to research and implement Microsoft Azure Appl
 **Jan. 2020 - Apr. 2020**  
 Designed a Gantt Chart styled user interface in order to efficiently schedule incoming flights for Orlando International Airport (MCO). Also used historical flight to implement a simple probabilistic algorithm to predict whether a flight would be delayed and by how much. Due to the subject material of the course (Spreadsheet Decision Support Systems), all work was asked to be done using Excel and VBA. 
 
+<img src="https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard/blob/main/images/gui_screen.JPG?raw=true" width="600">
+
 ## [Gun Violence in the U.S.](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)
 **Oct. 2019 - Dec. 2019**  
 
