@@ -1,4 +1,5 @@
 <h1 class="project-name">Nicholas Gonzalez Projects</h1>
+
 # **Welcome to my Portfolio!**
 This page contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
 
