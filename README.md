@@ -8,9 +8,9 @@ Developed an application that helps identify trending stocks and perform technic
 ## [Macronutrient Tracker](https://github.com/nicholasgonzalez1/Macronutrient_Tracker)
 **Oct. 2020 - Present**  
 Built a spreadsheet which helps me organize and manage the macronutrients that I consume throughout the day. Nutrition facts for my everyday foods are collected by an API from nutritionix.com. Python scripts are used to clean the requested data and store it into a sqlite3 database file. VBA code along with numerous Excel functions are implemented in order to create the spreadsheet dashboard.
-
+<kbd>
 <img src="https://github.com/nicholasgonzalez1/portfolio/blob/main/macro_tracker.png?raw=true" width="600">
-
+</kbd>
 ## [Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)
 **Jan. 2021 - Apr. 2021**  
 The objective of this project was to research and implement Microsoft Azure Applications to automate the Florida Lottery Department’s file extract, transform, and load (ETL) processes. Two fully-functioning workflows were created, one in Azure Logic Apps and the other in Azure Data Factory, along with extensive documentation detailing exactly how each pipeline was constructed.
@@ -18,9 +18,9 @@ The objective of this project was to research and implement Microsoft Azure Appl
 ## [Flight Scheduling Dashboard](https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard)
 **Jan. 2020 - Apr. 2020**  
 Designed a Gantt Chart styled user interface in order to efficiently schedule incoming flights for Orlando International Airport (MCO). Also used historical flight to implement a simple probabilistic algorithm to predict whether a flight would be delayed and by how much. Due to the subject material of the course (Spreadsheet Decision Support Systems), all work was asked to be done using Excel and VBA. 
-
+<kbd>
 <img src="https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard/blob/main/images/gui_screen.JPG?raw=true" width="600">
-
+</kbd>
 ## [Gun Violence in the U.S.](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)
 **Oct. 2019 - Dec. 2019**  
 
