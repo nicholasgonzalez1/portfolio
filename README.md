@@ -1,7 +1,7 @@
 # **Nicholas Gonzalez Projects**
 This portfolio contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
 
-## [Stock Screener](https://github.com/nicholasgonzalez1/Stock_Screener)
+## **[Stock Screener](https://github.com/nicholasgonzalez1/Stock_Screener)**
 **May 2021 - Present**  
 Developed an application that helps identify trending stocks and perform technical analysis. Utilizes an API from twelvedata.com to pull in real time market data on public companies from the Nasdaq. Python libraries used include pandas and matplotlib to analyze the requested prices, sqlite3 to store historical data, and PyQt5 for GUI implementation.
 
