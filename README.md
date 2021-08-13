@@ -1,10 +1,6 @@
 # **Nicholas Gonzalez Projects**
 This portfolio contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
-<!-- 
-## **[Stock Screener](https://github.com/nicholasgonzalez1/Stock_Screener)**
-**May 2021 - Present**  
-Developed an application that helps identify trending stocks and perform technical analysis. Utilizes an API from twelvedata.com to pull in real time market data on public companies from the Nasdaq. Python libraries used include pandas and matplotlib to analyze the requested prices, sqlite3 to store historical data, and PyQt5 for GUI implementation.
--->
+
 ## **[Macronutrient Tracker](https://github.com/nicholasgonzalez1/Macronutrient_Tracker)**
 **Oct. 2020 - Present**  
 Built a spreadsheet which helps me organize and manage the macronutrients that I consume throughout the day. Nutrition facts for my everyday foods are collected by an API from nutritionix.com. Python scripts are used to clean the requested data and store it into a sqlite3 database file. VBA code along with numerous Excel functions are implemented in order to create the spreadsheet dashboard.
@@ -19,10 +15,6 @@ Designed a Gantt Chart styled user interface in order to efficiently schedule in
 <kbd>
 <img src="https://github.com/nicholasgonzalez1/Flight_Scheduling_Dashboard/blob/main/images/gui_screen.JPG?raw=true" width="600">
 </kbd>
-<!--
-## **[Gun Violence in the U.S.](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)**
-**Oct. 2019 - Dec. 2019**  
--->
 
 ### **Connect with me**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-gonzalez-3011aa128)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicholasgonzalez1)  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasgonzalez927@gmail.com)
