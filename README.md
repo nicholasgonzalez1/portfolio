@@ -3,7 +3,7 @@ This portfolio contains a list of projects that I've worked on throughout my dat
 
 ## **[Macronutrient Tracker](https://github.com/nicholasgonzalez1/Macronutrient_Tracker)**
 **Oct. 2020 - Present**  
-Built a spreadsheet which helps me organize and manage the macronutrients that I consume throughout the day. Nutrition facts for my everyday foods are collected by an API from nutritionix.com. Python scripts are used to clean the requested data and store it into a sqlite3 database file. VBA code along with numerous Excel functions are implemented in order to create the spreadsheet dashboard.
+Built a spreadsheet which helps me organize and manage the macronutrients that I consume throughout the day. Nutrition facts for my everyday foods are collected by an API from nutritionix.com. Python scripts are used to clean the requested data and store it in the Excel file. VBA code along with numerous Excel functions are implemented in order to create the spreadsheet dashboard.
 
 ## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
 **Jan. 2021 - Apr. 2021**  
