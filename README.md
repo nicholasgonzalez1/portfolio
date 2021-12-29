@@ -2,11 +2,11 @@
 This portfolio contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
 
 ## **[Gun Violence Analysis](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)**
-**Dec. 2021 - Present**
+**Dec. 2021 - Present** <br>
 Built an interactive map using Python library Folium displaying shootings and other gun violence incidents across several US cities. Utilized Pandas and Numpy to clean several fields of the dataset. Implemented a KMeans clustering algorithm to group incidents based on geospatial data using latitude and longitude fields. <br><br>
 
 ## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
-**Jan. 2021 - Apr. 2021** <br>
+**Jan. 2021 - Apr. 2021** 
 The objective of this project was to research and implement Microsoft Azure Applications to automate the Florida Lottery Department’s file extract, transform, and load (ETL) processes. Two fully-functioning workflows were created, one in Azure Logic Apps and the other in Azure Data Factory, along with extensive documentation detailing exactly how each pipeline was constructed.<br><br>
 <kbd>
 <img src="https://github.com/nicholasgonzalez1/Data_Integration_FLD/blob/main/images/about_project.png?raw=true" width="600">
