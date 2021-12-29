@@ -3,7 +3,7 @@ This portfolio contains a list of projects that I've worked on throughout my dat
 
 ## **[Gun Violence Analysis](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)**
 **Dec. 2021 - Present** <br>
-Built an interactive map using Python library Folium displaying shootings and other gun violence incidents across several US cities. Utilized Pandas and Numpy to clean several fields of the dataset. Implemented a KMeans clustering algorithm to group incidents based on geospatial data using latitude and longitude fields. <br><br>
+Built an interactive map using the Python library Folium in order to display gun violence incidents and shootings across several US cities. Utilized Pandas and Numpy to clean several fields of the dataset. Implemented a KMeans clustering algorithm to group incidents based on geospatial data using latitude and longitude fields. <br><br>
 
 ## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
 **Jan. 2021 - Apr. 2021** 
