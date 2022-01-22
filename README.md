@@ -13,6 +13,10 @@ Built an interactive map using the Python library Folium in order to display gun
 **Sep 2020 - Dec 2021**  
 Modeled several machine learning classifiers to predict the probability that a movie would reach a certain rating based on features of the movie such as relevant actors, directors, production companies, genres, budget, and runtime. Utilized datasets consisting of 5,000 movies from The Movie Database (TMDB) to construct each model. In addition, an unsupervised approach was taken where movies were clustered based on similar traits, and then analyzed in order to observe which actors tend to produce higher rated content.
 
+<kbd>
+  <img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/movie_analytics.png?raw=true" width="550">
+</kbd>
+
 ## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
 **Jan 2021 - Apr 2021**  
 The objective of this project was to research and implement Microsoft Azure Applications to automate the Florida Lottery Department’s file extract, transform, and load (ETL) processes. Two fully-functioning workflows were created, one in Azure Logic Apps and the other in Azure Data Factory, along with extensive documentation detailing exactly how each pipeline was constructed.<br><br>
