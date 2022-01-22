@@ -11,7 +11,7 @@ Built an interactive map using the Python library Folium in order to display gun
 
 ## **[Predicting Movie Success Using Analytics](https://maqliu.github.io/maqliu.github.io-lucky13/Final-Report/)**
 **Sep 2020 - Dec 2021**  
-Modeled several machine learning classifiers to predict the probability that a movie would reach a certain rating based on features of the movie such as relevant actors, directors, production companies, genres, budget, and runtime. Utilized datasets consisting of 5,000 movies from The Movie Database (TMDB) to construct each model. In addition, an unsupervised approach was taken where movies were clustered based on similar traits, and then analyzed in order to observe which actors tend to produce higher rated content.
+Modeled several machine learning classifiers to predict the probability that a movie would reach a certain rating based on features of the film such as relevant actors, directors, production companies, genres, budget, and runtime. Utilized datasets consisting of 5,000 movies from themoviedb.com (TMDB) in order to construct each model. In addition, an unsupervised approach was taken where movies were clustered based on similar traits, and then analyzed in order to observe which actors tend to produce higher rated content.
 
 <kbd>
   <img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/movie_analytics.png?raw=true" width="550">
