@@ -2,12 +2,17 @@
 This portfolio contains a list of projects that I've worked on throughout my data science career. Click on any project titles to view further information!
 
 ## **[Gun Violence Analysis](https://github.com/nicholasgonzalez1/Gun_Violence_Analysis)**
-**Dec. 2021 - Present** <br>
+**Dec. 2021** <br>
 Built an interactive map using the Python library Folium in order to display gun violence incidents and shootings across several US cities. Utilized Pandas and Numpy to clean several fields of the dataset. Implemented a KMeans clustering algorithm to group incidents based on geospatial data using latitude and longitude fields. <br><br>
 
 <kbd>
   <img src="https://github.com/nicholasgonzalez1/Gun_Violence_Analysis/blob/main/images/chicago_demo.png?raw=true" width="550">
 </kbd>
+
+## **[Predicting Movie Success Using Analytics](https://maqliu.github.io/maqliu.github.io-lucky13/Final-Report/)**
+Built several Machine Learning classifiers to predict the probability that a movie would reach a certain rating based on features of the movie such as relevant actors, directors, production companies, genres, budget, and runtime. Utilized datasets consisting of 5,000 movies from The Movie Database (TMDB) to construct each model. In addition, an unsupervised approach was taken where movies were clustered and analyzed in order to observe which actors tend to produce higher rated content.
+
+
 
 ## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
 **Jan. 2021 - Apr. 2021** 
