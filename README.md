@@ -17,7 +17,7 @@ Modeled several machine learning classifiers to predict the probability that a m
   <img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/movie_analytics.png?raw=true" width="550">
 </kbd>
 
-## **[Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
+## **[Cloud-based Data Integration for the Florida Lottery](https://github.com/nicholasgonzalez1/Data_Integration_FLD)**
 **Jan 2021 - Apr 2021**  
 The objective of this project was to research and implement Microsoft Azure Applications to automate the Florida Lottery Department’s file extract, transform, and load (ETL) processes. Two fully-functioning workflows were created, one in Azure Logic Apps and the other in Azure Data Factory, along with extensive documentation detailing exactly how each pipeline was constructed.<br><br>
 <kbd>
